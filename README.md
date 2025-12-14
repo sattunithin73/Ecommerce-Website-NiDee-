@@ -1,3 +1,4 @@
+<h1 align="center">🛍️ NiDee – Ecommerce Website</h1>
 <p align="center">
 A clean ecommerce website built using <b>HTML, CSS and JavaScript</b>.  
 Designed to practice front-end development and layout building.
@@ -15,9 +16,7 @@ Designed to practice front-end development and layout building.
 
 Here is a preview of the homepage design:
 
-<p align="center">
-  <img src="./images/UI%20preview.png" width="900" alt="Ecommerce UI Preview"/>
-</p>
+![Ecommerce UI Screenshot](./images/UI preview.png)
 
 ---
 
