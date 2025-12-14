@@ -44,8 +44,11 @@ This project was built to:
 ---
 
 ## 📬 Contact
-- **Author:** Sattu Nithin  
-- **GitHub:** https://github.com/sattunithin73  
+- **Author:** Sattu Nithin
+- **Mail:** nithins0073@gmail.com
+- **GitHub:** https://github.com/sattunithin73
+- **Linkedin:** www.linkedin.com/in/sattu-nithin-63b00a286
+
 
 <p align="center">Made with ❤️ using HTML, CSS and JavaScript</p>
 
