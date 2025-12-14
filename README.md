@@ -13,7 +13,7 @@ Designed to practice front-end development and layout building.
 ---
 
 ## UI
-![image](https://user-images.githubusercontent.com/105323431/215714209-efbf84ee-6c84-42d0-8108-d413f2a0dd4a.png)
+![image](file:///C:/Users/saich/OneDrive/Pictures/Screenshots/Screenshot%202025-12-14%20134329.png)
 
 ---
 
