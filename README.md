@@ -1,22 +1,22 @@
-
 <p align="center">
 A clean ecommerce website built using <b>HTML, CSS and JavaScript</b>.  
 Designed to practice front-end development and layout building.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue" />
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-<img src="https://img.shields.io/badge/Project-NiDee-orange" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue" />
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+  <img src="https://img.shields.io/badge/Project-NiDee-orange" />
 </p>
 
 ---
+
 ## 🚀 Ecommerce Website – UI Preview
 
 Here is a preview of the homepage design:
 
 <p align="center">
-  <img src="./images/UI preview.png"  width="900">
+  <img src="./images/UI%20preview.png" width="900" alt="Ecommerce UI Preview"/>
 </p>
 
 ---
@@ -36,9 +36,10 @@ Here is a preview of the homepage design:
 - Easy to customize  
 
 ---
+
 ## 🎯 Purpose of the Project  
 
-KUMO was built to:
+This project was built to:
 
 - Practice real-world ecommerce layouts  
 - Improve HTML, CSS and JavaScript skills  
@@ -48,10 +49,10 @@ KUMO was built to:
 ---
 
 ## 📬 Contact
-- Author: Sattu Nithin
-- GitHub: https://github.com/sattunithin73
-<p align="center">Made with ❤️ using HTML, CSS and JavaScript</p> 
+- **Author:** Sattu Nithin  
+- **GitHub:** https://github.com/sattunithin73  
+
+<p align="center">Made with ❤️ using HTML, CSS and JavaScript</p>
 
 ---
-
 
