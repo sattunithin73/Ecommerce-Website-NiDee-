@@ -12,14 +12,6 @@ Designed to practice front-end development and layout building.
 
 ---
 
-## 🚀 Ecommerce Website – UI Preview
-
-Here is a preview of the homepage design:
-
-![Ecommerce UI Screenshot](./images/UI preview.png)
-
----
-
 ## 🔧 Tech Stack  
 - HTML  
 - CSS  
