@@ -12,11 +12,6 @@ Designed to practice front-end development and layout building.
 
 ---
 
-## UI
-![image](file:///C:/Users/saich/OneDrive/Pictures/Screenshots/Screenshot%202025-12-14%20134329.png)
-
----
-
 ## 🔧 Tech Stack  
 - HTML  
 - CSS  
