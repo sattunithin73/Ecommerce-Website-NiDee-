@@ -1,4 +1,4 @@
-
+<h1 align="center">🛍️ NiDee – Ecommerce Website</h1>
 <p align="center">
 A clean ecommerce website built using <b>HTML, CSS and JavaScript</b>.  
 Designed to practice front-end development and layout building.
