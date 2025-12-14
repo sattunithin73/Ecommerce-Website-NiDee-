@@ -16,7 +16,7 @@ Designed to practice front-end development and layout building.
 Here is a preview of the homepage design:
 
 <p align="center">
-  <img src="./images/Screenshot 2023-11-21 182700.png" alt="Homepage UI" width="900">
+  <img src="./images/Screenshot 2023-11-21 182700.png"  width="900">
 </p>
 
 ---
