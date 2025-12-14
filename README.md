@@ -11,9 +11,13 @@ Designed to practice front-end development and layout building.
 </p>
 
 ---
+## 🚀 Ecommerce Website – UI Preview
 
-## UI
-![image](https://user-images.githubusercontent.com/105323431/215714209-efbf84ee-6c84-42d0-8108-d413f2a0dd4a.png)
+Here is a preview of the homepage design:
+
+<p align="center">
+  <img src="./images/UI preview.png"  width="900">
+</p>
 
 ---
 
