@@ -10,6 +10,15 @@ Designed to practice front-end development and layout building.
 <img src="https://img.shields.io/badge/Project-NiDee-orange" />
 </p>
 
+---  
+## 🚀 Ecommerce Website – UI Preview
+
+Here is a preview of the homepage design:
+
+<p align="center">
+  <img src="./screenshots/banner.png" alt="Homepage UI" width="900">
+</p>
+
 ---
 
 ## 🔧 Tech Stack  
