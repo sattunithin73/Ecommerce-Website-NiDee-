@@ -16,7 +16,7 @@ Designed to practice front-end development and layout building.
 
 Here is a preview of the homepage design:
 
-![Ecommerce UI Screenshot](./images/UI preview.png)
+![Ecommerce UI Screenshot](./images/UI preview.jpg)
 
 ---
 
