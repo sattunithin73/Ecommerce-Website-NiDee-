@@ -11,6 +11,13 @@ Designed to practice front-end development and layout building.
 </p>
 
 ---
+## 🖼️ NiDee – Homepage UI Preview
+
+<p align="center">
+  <img src="./images/preview.png" alt="NiDee Homepage Screenshot" width="900">
+</p>
+
+---
 
 ## 🔧 Tech Stack  
 - HTML  
